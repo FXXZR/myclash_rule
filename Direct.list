@@ -1,0 +1,7 @@
+# 个人一些会误走代理的网站，使其直连
+
+- DOMAIN-KEYWORD,agedm,DIRECT
+- DOMAIN-KEYWORD,cloudflare,DIRECT
+- DOMAIN-KEYWORD,bangumi,DIRECT
+- DOMAIN-KEYWORD,tft.tools,DIRECT
+- DOMAIN-KEYWORD,tactics.tools,DIRECT
