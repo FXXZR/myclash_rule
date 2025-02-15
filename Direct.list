@@ -3,18 +3,22 @@
 DOMAIN-KEYWORD,agedm
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,bangumi
-DOMAIN-KEYWORD,tft.tools
-DOMAIN-KEYWORD,tactics.tools
 DOMAIN-KEYWORD,ghp
-# DOMAIN-KEYWORD,jxitv
+
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,dogfight360.com
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,fa8.pw
+DOMAIN-SUFFIX,tft.tools
+DOMAIN-SUFFIX,tactics.tools
+DOMAIN-SUFFIX,uploaduu.com
 
-;steam直连域
+
+# steam下载锁CN服务器
 IP-CIDR,45.121.184.0/24
 IP-CIDR,103.10.124.0/23
 IP-CIDR,103.28.54.0/24
